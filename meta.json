@@ -1,0 +1,18 @@
+{
+    "name": "New Card Counter",
+    "mod": 0,
+    "conflicts": [],
+    "disabled": false,
+    "require": [],
+    "min_point_version": "23.10",
+    "max_point_version": null,
+    "author": "Nguyễn Văn Phán",
+    "description": "Display the number of new cards created today, this week, and this month on Anki's home screen.",
+    "tags": [
+        "statistics",
+        "study",
+        "dashboard",
+        "cards"
+    ],
+    "version": "1.0.0"
+}
